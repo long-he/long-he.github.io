@@ -49,15 +49,6 @@
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>https://long-he.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://long-he.github.io/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selected Publications</title>
       <link>https://long-he.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
@@ -72,9 +63,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://long-he.github.io/home/publications/</guid>
-      <description>subtitle = &amp;ldquo;Publications&amp;rdquo; * &amp;ldquo;Robust Repositioning for Vehicle Sharing(https://ssrn.com/abstract=2973739).&amp;quot; (with Zhenyu Hu and Meilin Zhang). Manufacturing &amp;amp; Service Operations Management. Accepted.
- &amp;ldquo;Service Region Design for Urban Electric Vehicle Sharing Systems(http://dx.doi.org/10.1287/msom.2016.0611).&amp;quot; (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). Manufacturing &amp;amp; Service Operations Management​ 19(2), pp. 309–327, 2017.  [M&amp;amp;SOM Blog: Start Your Engine: Data-driven Planning for Car Sharing Systems for Smart Cities(https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Start-Your-Engine-Data-driven-Planning-for-Car-Sharing-Systems-for-Smart-Cities).]
- &amp;ldquo;Low-Rank Tensor Recovery for Geo-Demand Estimation in Online Retailing.</description>
+      <description>Journal Articles  &amp;ldquo;Robust Repositioning for Vehicle Sharing&amp;rdquo;.&amp;rdquo; (with Zhenyu Hu and Meilin Zhang). Manufacturing &amp;amp; Service Operations Management. Accepted.
+ &amp;ldquo;Service Region Design for Urban Electric Vehicle Sharing Systems.&amp;rdquo; (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). Manufacturing &amp;amp; Service Operations Management​ 19(2), pp. 309–327, 2017.
+[M&amp;amp;SOM Blog: Start Your Engine: Data-driven Planning for Car Sharing Systems for Smart Cities.]
+ &amp;ldquo;Stochastic Control for Smart Grid Users with Flexible Demand.</description>
     </item>
     
     <item>
@@ -96,11 +88,29 @@
     </item>
     
     <item>
+      <title>Teaching</title>
+      <link>https://long-he.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/teaching/</guid>
+      <description> Undergraduate  DSC3214 Introduction to Optimization  2018&amp;frasl;2019 S1  DBA3803/DSC3216 Predictive Analytics in Business  2017&amp;frasl;2018 S1&amp;amp;2, 2018&amp;frasl;2019 S1  DSC3216 Forecasting for Managerial Decisions  2015&amp;frasl;2016 S2, 2016&amp;frasl;2017 S2   PhD  BDC6114 Logistics and Supply Chain  2016&amp;frasl;2017 S2, 2017&amp;frasl;2018 S2   </description>
+    </item>
+    
+    <item>
       <title>Recent Posts</title>
       <link>https://long-he.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://long-he.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://long-he.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://long-he.github.io/home/experience/</guid>
       <description></description>
     </item>
     
@@ -111,19 +121,6 @@
       
       <guid>https://long-he.github.io/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://long-he.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://long-he.github.io/home/teaching/</guid>
-      <description>2018&amp;frasl;2019, Semester 1 * DSC3214 Introduction to Optimization (Undergraduate) * DBA3803/DSC3216 Predictive Analytics in Business (Undergraduate)
-2017&amp;frasl;2018, Semester 2 * BDC6114 Logistics and Supply Chain (PhD) * DBA3803/DSC3216 Predictive Analytics in Business (Undergraduate)
-2017&amp;frasl;2018, Semester 1 * DBA3803/DSC3216 Predictive Analytics in Business (Undergraduate)
-2016&amp;frasl;2017, Semester 2 * BDC6114 Logistics and Supply Chain (PhD) * DSC3216 Forecasting for Managerial Decisions (Undergraduate)
-2015&amp;frasl;2016, Semester 2 * DSC3216 Forecasting for Managerial Decisions (Undergraduate)</description>
     </item>
     
     <item>
