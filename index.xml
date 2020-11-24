@@ -1,13 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Long He on Long He</title>
+    <title>Long He</title>
     <link>https://long-he.github.io/</link>
-    <description>Recent content in Long He on Long He</description>
+    <description>Recent content on Long He</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://long-he.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://long-he.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://long-he.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://long-he.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/about/</guid>
+      <description>Home I am an assistant professor in Department of Analytics &amp;amp; Operations (DAO) at NUS Business School, National University of Singapore. Prior to joining NUS, I was a data scientist at @WalmartLabs, Walmart eCommerce in California. I received my Ph.D. in Operations Research from University of California, Berkeley and B.Eng. in Logistics Management and Engineering from The Hong Kong University of Science and Technology. My current research involves using data-driven approaches to address problems in smart city operations (e.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://long-he.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://long-he.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://long-he.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/publications/</guid>
+      <description>Journal Articles  &amp;ldquo;On-Time Last-Mile Delivery: Order Assignment with Travel-Time Predictors.&amp;rdquo; (with Sheng Liu and Z. Max Shen). Management Science. 2020.
+ &amp;ldquo;Charging an Electric Vehicle-Sharing Fleet.&amp;rdquo; (with Guangrui Ma, Wei Qi, and Xin Wang). Manufacturing &amp;amp; Service Operations Management. 2020.
+ &amp;ldquo;Spatial pricing and product allocation in online retailing.&amp;rdquo; (with Mengying Xue). Naval Research Logistics (NRL). 2020.
+ &amp;ldquo;Robust Vehicle Pre‐Allocation with Uncertain Covariates.&amp;rdquo; (with Zhaowei Hao, Zhenyu Hu and Jun Jiang).</description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://long-he.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://long-he.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://long-he.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/teaching/</guid>
+      <description> Undergraduate  DSC3214 Introduction to Optimization  Fall 2018  DBA3803/DSC3216 Predictive Analytics in Business  Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019  DSC3216 Forecasting for Managerial Decisions  Spring 2016, Spring 2017   MSBA  DBA5106 Foundation in Business Analytics  Fall 2020   PhD  BDC6114 Logistics and Supply Chain  Spring 2017, Spring 2018, Fall 2019   </description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://long-he.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://long-he.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://long-he.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://long-he.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://long-he.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://long-he.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://long-he.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
