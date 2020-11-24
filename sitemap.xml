@@ -83,19 +83,4 @@
     <priority>0</priority>
   </url>
   
-  <url>
-    <loc>https://long-he.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://long-he.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://long-he.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
